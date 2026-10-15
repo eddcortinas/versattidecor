@@ -1148,8 +1148,8 @@ section[id] { scroll-margin-top: calc(var(--header-h) + 8px); }
 .footer__links a:hover { color: var(--laranja); }
 .footer__legal { border-top-color: rgba(212, 169, 63, .35); }
 /* Logo dourada: no cabeçalho fica num selo preto arredondado, para o dourado não sumir no fundo creme */
-.logo--selo { padding: 6px 12px; border-radius: 14px; background: #000; }
-.logo--selo img { height: 46px; }
+.logo--selo { padding: 3px 10px; border-radius: 12px; background: #000; }
+.logo--selo img { height: 64px; }
 /* No rodapé a logo já vem com fundo preto */
 .logo--light { padding: 0; background: transparent; border-radius: 10px; overflow: hidden; }
 .logo--light img { height: 96px; }
@@ -1179,5 +1179,5 @@ h3 { letter-spacing: 0; }
   .products--5 .product:nth-child(4) { grid-column: 2 / span 2; }
 }
 @media (max-width: 860px) {
-  .logo--selo img { height: 38px; }
+  .logo--selo img { height: 54px; }
 }
