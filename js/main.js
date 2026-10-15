@@ -482,7 +482,7 @@ if (fotosGaleria.length) {
     const foto = lista[atual];
     imgGrande.src = foto.currentSrc || foto.src;
     imgGrande.alt = foto.alt;
-    legenda.textContent = `${foto.alt.replace(/, projeto da Versatti Decor em Fortaleza$/, "")} · ${atual + 1} de ${lista.length}`;
+    legenda.textContent = `${foto.alt.replace(/, inspiração para o seu ambiente$/, "")} · ${atual + 1} de ${lista.length}`;
   };
   const abrir = (i) => {
     ultimoFoco = document.activeElement;
