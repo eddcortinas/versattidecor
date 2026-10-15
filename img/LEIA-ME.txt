@@ -25,3 +25,6 @@ Dicas
 - Fotos em JPG, com qualidade perto de 85%. Sem marca d'água.
 - Para ter mais fotos na galeria, copie um bloco <figure class="media gallery__item"> no index.html
   e troque o número do arquivo (projeto-07.jpg, projeto-08.jpg...).
+
+Origem das fotos atuais: banco gratuito Unsplash (unsplash.com, licença livre para uso comercial).
+São fotos ilustrativas, não são trabalhos da Versatti. Troque pelas fotos reais quando tiver.
