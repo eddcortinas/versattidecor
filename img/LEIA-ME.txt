@@ -1,0 +1,27 @@
+FOTOS DO SITE - Versatti Decor
+
+Coloque nesta pasta as imagens com exatamente estes nomes.
+Enquanto uma foto não existir, o site mostra um espaço cinza no lugar.
+
+Arquivo                     Onde aparece                              Tamanho sugerido
+logo-versatti.png           Logo do cabeçalho (fundo transparente,    dourado; fica num selo preto
+                            hoje provisória, em texto)
+logo-versatti-preto.png     Logo do rodapé e da imagem de link        fundo preto
+                            (hoje provisória, em texto)
+hero.jpg                    Foto grande do topo                       vertical, até 1100 px de largura
+sobre.jpg                   Foto da seção "Sobre nós"                 até 1100 px de largura
+produto-cortinas.jpg        Card "Cortinas"                           até 1100 px de largura
+produto-persianas.jpg       Card "Persianas"
+produto-automatizadas.jpg   Card "Cortinas automatizadas"
+produto-papel-de-parede.jpg Card "Papel de parede"
+produto-toldos.jpg          Card "Toldos"
+projeto-01.jpg              Galeria "Projetos" (a 1ª fica mais alta)  até 1100 px de largura
+projeto-02.jpg ... projeto-06.jpg   Galeria "Projetos"
+og-image.jpg                Imagem do link no WhatsApp/Facebook       1200 x 630 px
+favicon.png                 Ícone da aba do navegador                 64 x 64 px (escudo com "V")
+favicon-180.png             Ícone no celular                          180 x 180 px
+
+Dicas
+- Fotos em JPG, com qualidade perto de 85%. Sem marca d'água.
+- Para ter mais fotos na galeria, copie um bloco <figure class="media gallery__item"> no index.html
+  e troque o número do arquivo (projeto-07.jpg, projeto-08.jpg...).
